@@ -1,0 +1,28 @@
+	bdm,bdes,saveavr:
+	1.204428e-05	0.00059016972	100.50083333194439
+	nval,nsval:
+	1	1
+	rkpp,rkpn (rkappa_{++},rkappa_{+-}):
+	2.0816	  0.18
+	h:
+	30.
+	dz:
+	0.05
+	dmm:
+	0.994
+	dms:
+	0.994
+	kread:
+	1
+	ioimaxm:
+	700000
+	trams:
+	0.7
+	dm1,ds1,bl,vk:
+	4.d0	4.d0	6.d0	0.8d0
+
+
+	0.001204428	6.02214e-6		
+
+
+
